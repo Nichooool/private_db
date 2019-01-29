@@ -8202,3 +8202,4 @@
 
 [outbound_block_list]
 (^|\.)0azx1.com$
+(^|\.)baidu.com$
