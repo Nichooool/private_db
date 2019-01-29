@@ -39396,3 +39396,12 @@
 (^|\.)www\.zzcartoon\.com$
 (^|\.)www\.zzgays\.com$
 (^|\.)www\.zzztube\.com$
+(^|\.)www\.youtube\.com$
+(^|\.)search?q=.*sex.*$
+(^|\.)search?q=.*porn.*$
+(^|\.)search?q=.*downblouse.*$
+(^|\.)search?q=.*upskirt.*$
+(^|\.)search?query=.*sex.*$
+(^|\.)search?query=.*porn.*$
+(^|\.)search?query=.*downblouse.*$
+(^|\.)search?query=.*upskirt.*$
