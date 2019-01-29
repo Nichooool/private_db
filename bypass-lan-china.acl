@@ -39397,11 +39397,7 @@
 (^|\.)www\.zzgays\.com$
 (^|\.)www\.zzztube\.com$
 (^|\.)m\.youtube\.com$
-(^|\.)search?q=.*sex.*$
-(^|\.)search?q=.*porn.*$
-(^|\.)search?q=.*downblouse.*$
-(^|\.)search?q=.*upskirt.*$
-(^|\.)search?query=.*sex.*$
-(^|\.)search?query=.*porn.*$
-(^|\.)search?query=.*downblouse.*$
-(^|\.)search?query=.*upskirt.*$
+(^|\.)search?.*sex.*$
+(^|\.)search?.*porn.*$
+(^|\.)search?.*downblouse.*$
+(^|\.)search?.*upskirt.*$
